@@ -363,7 +363,7 @@ Notes: For prioritization we map Probability / Impact to numeric values (Low=1, 
 
 | Name | Role | Initials | Date |
 |------|------|-----------|------|
-| | Test Manager | | |
+|Evans Nyamu | Test Manager |E.S.N |27/10/2025 |
 | | Risk Analyst | | |
 | | Test Executor | | |
 
