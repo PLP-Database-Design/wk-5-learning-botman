@@ -14,7 +14,7 @@
 | Role          | Name                | Responsibilities                                         |
 | ------------- | ------------------- | -------------------------------------------------------- |
 | Test Manager  | Evans Nyamu         | Planning, scheduling, coordination, metric tracking      |
-| Risk Analyst  | [Name TBD]          | Risk identification, prioritization, test design linkage |
+| Risk Analyst  | Ayomide Kayode Samuel | Risk identification, prioritization, test design linkage |
 | Test Executor | Oreoluwa Ruth Ajayi | Execution, evidence capture, defect logging              |
 
 ---
@@ -96,7 +96,7 @@
 **Owner Assignments:**
 
 - **Test Manager (Evans Nyamu):** Maintain schedule, coordinate owners, run daily triage, approve sign-off.
-- **Risk Analyst:** Prepare risk-prioritized test cases by end of Planning day.
+- **Risk Analyst (Ayomide Kayode Samuel):** Prepare risk-prioritized test cases by end of Planning day.
 - **Test Executor (Oreoluwa Ruth Ajayi):** Create test data, execute test cases, log defects with evidence.
 
 **Critical Milestones:**
@@ -668,7 +668,7 @@ The risk-based approach enabled focused test coverage on the most important feat
 | Name                | Role          | Initials | Date       |
 | ------------------- | ------------- | -------- | ---------- |
 | Evans Nyamu         | Test Manager  | E.N.     | 2025-10-27 |
-| [TBD]               | Risk Analyst  | [TBD]    | [TBD]      |
+| Ayomide Kayode      | Risk Analyst  | A.K.S    | 2025-10-27 |
 | Oreoluwa Ruth Ajayi | Test Executor | O.R.A.   | 2025-10-27 |
 
 ---
@@ -724,6 +724,6 @@ After all fixes are deployed, the following test cases must be retested:
 
 ---
 
-**Report Prepared By:** Evans Nyamu (Test Manager) | Oreoluwa Ruth Ajayi (Test Executor)  
+**Report Prepared By:** Evans Nyamu (Test Manager) | Ayomide Kayode Samuel (Risk Analyst) | Oreoluwa Ruth Ajayi (Test Executor)  
 **Report Version:** 1.0  
 **Last Updated:** 2025-10-28
