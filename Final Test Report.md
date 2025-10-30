@@ -91,7 +91,7 @@
 | Planning & Test Design                | Sat 2025-10-26 (1 day)   | 1 day           | ✅ Completed   |
 | Test Case Creation & Automation Setup | Sun 2025-10-27 (1 day)   | 1 day           | ✅ Completed   |
 | Test Execution & Defect Triage        | Mon 2025-10-27 (1 day)   | 1 day           | ✅ Completed   |
-| Report Finalization & Submission      | Tue 2025-10-28 (morning) | In Progress     | 🔄 In Progress |
+| Report Finalization & Submission      | Tue 2025-10-28 (morning) | In Progress     | ✅ Completed |
 
 **Owner Assignments:**
 
@@ -103,7 +103,7 @@
 
 - ✅ 2025-10-26 EOD: Test plan and prioritized test case list ready.
 - ✅ 2025-10-27 EOD: Test cases implemented and executed; defects logged and triaged; metrics updated.
-- 🔄 2025-10-28 AM: Final report completed and submitted.
+- ✅ 2025-10-28 AM: Final report completed and submitted.
 
 ### Entry & Exit Criteria
 
