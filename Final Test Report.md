@@ -606,7 +606,7 @@ _Screenshot showing special characters accepted in input field with generic erro
 | Planning & Test Design                | Test plan, prioritized risks & test-case list | ✅ Completed: Test plan and prioritized list created                          | 0 days   | Test Manager                 |
 | Test Case Creation & Automation Setup | Test cases, automation skeleton               | ✅ Completed: Test cases documented; automation recommended (Selenium/Appium) | 0 days   | Test Executor                |
 | Test Execution & Defect Triage        | Execute tests, log defects, triage            | ✅ Completed: 8 test cases executed; 1 defect logged and triaged              | 0 days   | Test Executor / Test Manager |
-| Report Finalization & Submission      | Final report & submission                     | 🔄 In Progress: Finalizing report for 2025-10-28 AM submission                | On track | Test Manager                 |
+| Report Finalization & Submission      | Final report & submission                     | ✅ Completed: Report Finalized 2025-10-28                | 1 day | Test Manager                 |
 
 **Progress Tracking Method:**  
 Jira / Trello boards for task tracking; GitHub Issues for defects and PRs.
@@ -713,7 +713,7 @@ After all fixes are deployed, the following test cases must be retested:
 - TC09 (Scramble Validation)
 - TC10 (Special Character Input)
 
-**Test Status:** ☐ Completed / ☑ In Progress / ☐ Deferred
+**Test Status:** ✅ Completed / ☐ In Progress / ☐ Deferred
 
 **Remaining Actions:**
 
